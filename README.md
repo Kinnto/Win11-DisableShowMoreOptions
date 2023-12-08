@@ -1,5 +1,5 @@
-# Win11_Disable Show More Options
-# Win11 一键关闭右键“显示更多选项”
+# Win11_Disable Show More Options （Win11 一键关闭右键“显示更多选项”）
+# 
 
 A simple batch script to disable the "Show more options" feature in Windows 11.
 
