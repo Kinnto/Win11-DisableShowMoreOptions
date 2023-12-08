@@ -1,4 +1,4 @@
-# Win11-Disable Show More Options
+# Win11_Disable Show More Options
 
 A simple batch script to disable the "Show more options" feature in Windows 11.
 
@@ -14,6 +14,9 @@ Download the `DisableShowMoreOptions.bat` file from this repository.
 
 1. Right-click on `DisableShowMoreOptions.bat` and "Run as administrator".
 2. Reboot your PC
+
+![image](https://github.com/Kinnto/Win11-DisableShowMoreOptions/assets/22886988/05581d6e-15f5-4da1-8ed8-68711314eaf8)
+
 
 ## Warning
 
